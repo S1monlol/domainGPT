@@ -17,9 +17,9 @@
 
 ### Commands
 1. Generate domains based on an existing name: 
-   go run main.go name [YOUR_NAME] 
+   `go run main.go name [YOUR_NAME]` 
 2. Generate based off of project idea: 
-   go run main.go idea [YOUR_PROJECT_IDEA] 
+   `go run main.go idea [YOUR_PROJECT_IDEA]` 
 
 ## Optional Flags
 - `--skip-verify` or `-sv`: Use this flag if you want to skip the verification of domain names before returning them.
